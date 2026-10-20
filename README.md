@@ -1,6 +1,6 @@
 # DessertRecycleView
 
-Tugas Praktikum Aplikasi Mobile (PAM) - Modul 2
+Penugasan Modul 2 - Pengembangan Aplikasi Mobile (PAM)
 
 ## Deskripsi Proyek
 Aplikasi Android berbasis Kotlin yang menampilkan katalog daftar dessert (Droid Desserts) interaktif. Proyek ini memodifikasi `RecyclerView` dengan menyajikan gambar avatar lingkaran bergradasi warna dinamis serta teks deskripsi untuk setiap menu.
